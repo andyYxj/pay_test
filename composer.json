@@ -9,6 +9,7 @@
             "email": "yuxianjun001@icloud.com"
         }
     ],
+  "version":"dev1.0",
     "require": {},
     "autoload": {
         "psr-4": {
