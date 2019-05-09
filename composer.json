@@ -1,0 +1,14 @@
+{
+    "name": "yuxianjun/pay",
+    "description": "a test pay",
+    "type": "library",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "AndyYu",
+            "email": "yuxianjun001@icloud.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
