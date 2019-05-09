@@ -2,13 +2,18 @@
     "name": "yuxianjun/pay",
     "description": "a test pay",
     "type": "library",
-    "license": "apache",
+    "license": "MIT",
     "authors": [
         {
             "name": "AndyYu",
             "email": "yuxianjun001@icloud.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pay\\": "src/pay/"
+        }
+    }
 }
